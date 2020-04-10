@@ -2,6 +2,8 @@
 
 - We propose a method of curating high-quality comparable training data for low-resource languages without requiring that the annotators are bilingual. Our method involves using a carefully selected set of images as a pivot between the source and target languages by getting captions for such images in both languages independently. Human evaluations on the English-Hindi comparable corpora created with our method show that 81.1\% of the pairs are acceptable translations, and only 2.47% of the pairs are not a translation at all. We further establish the potential of dataset collected through our approach by experimenting on two downstream tasks -- machine translation and dictionary extraction. 
 
+- Joint work with Shruti Rijhwani, Antonios Anastasopoulos, Yiming Yang, and Graham Neubig
+
 - Work to be presented as a poster at Practical ML for Developing Countries Workshop at ICLR 2020.
 
 - Talk/presentation/pre-print coming soon.
