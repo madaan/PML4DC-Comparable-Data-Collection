@@ -1,7 +1,9 @@
-# WYSIWYS
-What you see is what you say: An alternative method of generating translation data for low resource languages 
+## Practical Comparable Data Collection for Low-Resource Languages via Images
 
-## src
+- Work presented as a poster at Practical ML for Developing Countries Workshop at ICLR 2020
+- Talk/presentation/pre-print coming soon.
+
+## Source
 
 * Translation Downstream Task - (Paul Michel's Baseline NMT Implementation)[https://github.com/pmichel31415/11731-assignment-2-baseline]
 
