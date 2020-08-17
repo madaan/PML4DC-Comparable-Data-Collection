@@ -45,3 +45,17 @@ data/
 | Flickr8k                           	| http://academictorrents.com/details/9dea07ba660a722ae1008c4c8afdd303b6f6e53b 	|
 | Generated Dictionary               	| data/dict.hin-eng.txt                                                        	|
 | Fastalign input/output             	| data/alignments/                                                             	|
+
+
+# Citation
+
+If you use our work, please cite:
+
+```
+@article{madaan2020practical,
+  title={Practical Comparable Data Collection for Low-Resource Languages via Images},
+  author={Madaan, Aman and Rijhwani, Shruti and Anastasopoulos, Antonios and Yang, Yiming and Neubig, Graham},
+  journal={arXiv preprint arXiv:2004.11954},
+  year={2020}
+}
+```
