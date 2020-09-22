@@ -1,3 +1,11 @@
+  
+* [Practical Comparable Data Collection for Low-Resource Languages via Images](#practical-comparable-data-collection-for-low-resource-languages-via-images)
+* [Source](#source)
+* [Data](#data)
+* [Task Instructions](#task-instructions)
+* [Citation](#citation)
+
+
 ## Practical Comparable Data Collection for Low-Resource Languages via Images
 
 - Paper: https://arxiv.org/abs/2004.11954
