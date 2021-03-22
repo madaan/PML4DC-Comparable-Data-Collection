@@ -71,10 +71,10 @@ data/
 If you use our work, please cite:
 
 ```
-@article{madaan2020practical,
+@inproceedings{madaan2020practical,
   title={Practical Comparable Data Collection for Low-Resource Languages via Images},
   author={Madaan, Aman and Rijhwani, Shruti and Anastasopoulos, Antonios and Yang, Yiming and Neubig, Graham},
-  journal={arXiv preprint arXiv:2004.11954},
+  booktitle={Proceedings of the Practical ML for Developing Countries Workshop, ICLR 2020},
   year={2020}
 }
 ```
